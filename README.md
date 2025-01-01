@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaamith-nethsara" alt="chaamith-nethsara" /></a> </p>
-
+---
 - 🔭 I’m currently working on **Portfolio Project**
 
 - 🌱 I’m currently learning **React, Spring boot**
