@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **web development project**
 
-- 💬 Ask me about **Java Node.js JavaScript express.js react**
+- 💬 Ask me about **Java, Node.js, JavaScript, express.js, react**
 
 - 📫 How to reach me **chamithnethsara111@gmail.com**
 
